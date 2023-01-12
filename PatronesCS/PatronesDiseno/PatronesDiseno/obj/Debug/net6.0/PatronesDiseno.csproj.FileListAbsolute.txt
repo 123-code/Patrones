@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\bin\Debug\net6.0\PatronesDiseno.exe
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\bin\Debug\net6.0\PatronesDiseno.deps.json
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\bin\Debug\net6.0\PatronesDiseno.runtimeconfig.json
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\bin\Debug\net6.0\PatronesDiseno.dll
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\bin\Debug\net6.0\PatronesDiseno.pdb
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.AssemblyInfo.cs
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.dll
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\refint\PatronesDiseno.dll
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.pdb
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\PatronesDiseno.genruntimeconfig.cache
+C:\Users\laboratorio\Downloads\PatronesDiseno\PatronesDiseno\obj\Debug\net6.0\ref\PatronesDiseno.dll
